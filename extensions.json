@@ -1,0 +1,15 @@
+{
+    "extensions": [
+        "golang.go",
+        "eamodio.gitlens",
+        "premparihar.gotestexplorer",
+        "766b.go-outliner",
+        "ms-vscode.go",
+        "formulahendry.code-runner",
+        "streetsidesoftware.code-spell-checker",
+        "wayou.vscode-todo-highlight",
+        "gruntfuggly.todo-tree",
+        "shardulm94.trailing-spaces",
+        "vscode-icons-team.vscode-icons"
+    ]
+}
